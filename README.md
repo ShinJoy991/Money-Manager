@@ -1,5 +1,4 @@
-<h1 align="center" id="title">fawwaf</h1>
-# Money Manager
+<h1 align="center" id="title">Money Manager</h1>
 
 Money Manager is a C# project made for personal use and designed to serve as an educational resource.
 
