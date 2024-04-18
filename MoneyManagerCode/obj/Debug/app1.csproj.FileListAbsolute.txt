@@ -1,0 +1,48 @@
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\app1.exe.config
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\app1.exe
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\app1.pdb
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.csprojAssemblyReference.cache
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.Form1.resources
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.Properties.Resources.resources
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.csproj.GenerateResource.cache
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.exe
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.pdb
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.csproj.ResolveComReference.cache
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\Interop.EnvDTE.dll
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\Interop.Microsoft.VisualStudio.CommandBars.dll
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\Interop.VSLangProj.dll
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\Interop.VSLangProj100.dll
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\Interop.VSTOEE90.dll
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\ExcelDataReader.dll
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\ExcelDataReader.pdb
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\ExcelDataReader.xml
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\TRAN HOANG MINH NHUT\Desktop\EEEEE\app1\app1\obj\Debug\app1.csproj.CopyComplete
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\app1.exe.config
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\app1.exe
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\app1.pdb
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\ExcelDataReader.dll
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\ExcelDataReader.pdb
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\ExcelDataReader.xml
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\Interop.EnvDTE.dll
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\Interop.Microsoft.VisualStudio.CommandBars.dll
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\Interop.VSLangProj.dll
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\Interop.VSLangProj100.dll
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\Interop.VSTOEE100.dll
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\Interop.VSTOEE90.dll
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.csproj.ResolveComReference.cache
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.Form1.resources
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.Properties.Resources.resources
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.csproj.GenerateResource.cache
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.csproj.CoreCompileInputs.cache
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.csproj.CopyComplete
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.exe
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.pdb
+C:\Users\TRAN HOANG MINH NHUT\Documents\VS file\Tien\app1\obj\Debug\app1.csproj.AssemblyReference.cache
